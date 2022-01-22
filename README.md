@@ -3,4 +3,6 @@
 A simple sneakers landing page made with html and css.
 Screenshots below
 
-<img src="../screenshots/Screenshot(263).png">
+https://i.postimg.cc/MHDvcBGy/Screenshot-263.png
+
+<img src="https://i.postimg.cc/MHDvcBGy/Screenshot-263.png">
