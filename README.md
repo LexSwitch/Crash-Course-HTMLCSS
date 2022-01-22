@@ -5,4 +5,6 @@ Screenshots below
 
 https://i.postimg.cc/MHDvcBGy/Screenshot-263.png
 
-<img src="https://i.postimg.cc/MHDvcBGy/Screenshot-263.png">
+<img src="https://i.postimg.cc/MHDvcBGy/Screenshot-263.png" width=400px>
+
+<img src="https://i.postimg.cc/y6XJpMTk/Screenshot-264.png" width=400px>
